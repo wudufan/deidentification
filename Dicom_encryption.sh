@@ -14,5 +14,5 @@
 # python3 Dicom_encryption.py --input_dir "/home/dwu/data/DZH_DATA/Aneurysms 9.19.19/SAH-" --output_dir "/home/dwu/data/Aneurysm/2019/SAH-" --keep_relative_path 1 &
 # wait
 
-python3 Dicom_encryption.py --input_dir "/home/dwu/data/DZH_DATA/Aneurysms 9.19.19/Ann without image/Sah-/" --output_dir "/home/dwu/data/Aneurysm/2019/Ann without image/Sah-"
-python3 Dicom_encryption.py --input_dir "/home/dwu/data/DZH_DATA/Aneurysms 9.19.19/Ann without image/Sah+/" --output_dir "/home/dwu/data/Aneurysm/2019/Ann without image/Sah+"
+# python3 Dicom_encryption.py --input_dir "/home/dwu/data/DZH_DATA/Aneurysms 9.19.19/Ann without image/Sah-/" --output_dir "/home/dwu/data/Aneurysm/2019/Ann without image/Sah-"
+# python3 Dicom_encryption.py --input_dir "/home/dwu/data/DZH_DATA/Aneurysms 9.19.19/Ann without image/Sah+/" --output_dir "/home/dwu/data/Aneurysm/2019/Ann without image/Sah+"
